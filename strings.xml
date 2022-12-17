@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Zakat Payment</string>
+    <string name="get_weight">Weight of Gold in Gram (g)</string>
+    <string name="get_type">Type of Gold</string>
+    <string name="gold">gold</string>
+    <string name="wear">wear</string>
+    <string name="get_current">Current Gold Value Per Gram</string>
+    <string name="calculate">Calculate</string>
+    <string name="tv_about_us">About Us</string>
+
+    <string name="t_information">INFORMATION</string>
+    <string name="t_github">WEBSITE URL:</string>
+
+    <string name="information">A skilled app developer named Syamim made this application. The payment of zakat for gold savings will be calculated with the aid of this software. Keep and wear are the two types of gold that are accessible in this application. For this calculation, the zakat, uruf, and the total gold value will all be computed. The advantage of this programme is that users may easily and clearly make zakat payments.</string>
+    <string name="student_name">MOHD SYAMIM BIN MUHAMAD JAFFAR</string>
+    <string name="student_id">2021121835</string>
+    <string name="group">CS2404A</string>
+    <string name="program_code">ICT602</string>
+    <string name="github">
+        <a href="https://github.com/Syaming/Zakatpayment">https://github.com/Syaming/ZakatPayment</a></string>
+    <string name="copyright">Copyright &#169; 2022 SF</string>
+
+</resources>
